@@ -3,7 +3,7 @@ h1 {
     text-align: center;
     width: auto;
     font-family: "Oswald";
-    font-size: 400px;
+    font-size: 100px;
 }
 body { 
      background-color: aquamarine;
@@ -12,7 +12,12 @@ body {
 
 }
 p {
-text-align: center;
 width: auto;
+text-align: center;
 
+}
+img {
+width: 300px;
+padding-right: 50px;
+padding-left: 50px;
 }
