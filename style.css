@@ -4,6 +4,7 @@ h1 {
     width: auto;
     font-family: "Oswald";
     font-size: 100px;
+    padding-bottom: 50px;
 }
 body { 
      background-color: aquamarine;
@@ -22,6 +23,6 @@ padding-right: 50px;
 padding-left: 50px;
 }
 video {
-padding-left: 50px   ;
+padding-left: 50px;
 padding-right: 50px;
 }
